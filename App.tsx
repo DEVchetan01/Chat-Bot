@@ -102,6 +102,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#494F55',
   },
+  
   messagesContainer: {
     padding: 10,
   },
