@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { StyleSheet, Text, TextInput, TouchableOpacity, View, FlatList, SafeAreaView } from "react-native";
 
-const GEMINI_API_KEY = "AIzaSyD9sysS3CajH40xr29t8ee5aGds5O9ykJ4";
+const GEMINI_API_KEY = "API-KEY";
 
 // Define message type with strict sender values
 type Message = {
